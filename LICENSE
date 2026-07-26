@@ -1,42 +1,35 @@
-Internot Kasher (אינטרנוט כשר) — Free Use License
-Copyright (c) Yossi Cohen / servxx.com
-All rights reserved to the author; free use is granted under the terms below.
+﻿רישיון שימוש — אינטרנוט כשר (גרסה 1.0)
 
-THE SOFTWARE IS PROVIDED FREE OF CHARGE FOR YOUR USE.
+התוכנה «אינטרנוט כשר» מסופקת חינם, במצב «AS IS» / «כפי שהיא», ללא כל אחריות — מפורשת או משתמעת — לרבות (ולא רק) אחריות לסחירות, להתאמה למטרה מסוימת, לאי־הפרה, לזמינות רציפה או לחוסר בתקלות.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+המפתחים, המפיצים ו־servxx אינם אחראים לכל נזק ישיר, עקיף, מקרי, תוצאתי או מיוחד שינבע משימוש בתוכנה או מאי־יכולת להשתמש בה — לרבות אובדן נתונים, הפרעת גלישה, חסימה שגויה של אתרים, כשל ברשת הביתית, או כל נזק אחר — גם אם הודעו על אפשרות לנזק כזה.
 
-THE AUTHOR AND DISTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, DATA
-LOSS, LOSS OF PROFITS, DOWNTIME, NETWORK OUTAGE, OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+השימוש בתוכנה הוא באחריות המשתמש בלבד. על המשתמש לוודא שההתקנה וההגדרות מתאימות לצרכיו, לחוק החל במקומו, ולהלכה (כולל איסור שימוש בשבת ובחג). אין לראות בתוכנה ייעוץ הלכתי או משפטי.
 
-Filtering is not absolute and may be bypassed (Safe Mode, Live USB, VPN,
-DoH/DoT, apps that ignore the system proxy, and more). Use is at your own
-risk and subject to applicable law and Halacha.
+התוכנה אינה מבטיחה חסימה מוחלטת. ניתן לעקוף סינון באמצעים כגון מצב בטוח, Live USB, חשבון מנהל, DNS מוצפן (DoH/DoT), VPN, או אפליקציות שמתעלמות מפרוקסי המערכת. אחריות ההגדרה והפיקוח — על המשתמש.
 
-Third-party blocklists (e.g. StevenBlack/hosts) are licensed separately (MIT).
+רשימות סינון חיצוניות (למשל StevenBlack/hosts) מופצות בנפרד ברישיון MIT ועלולות לכלול חיובי־שווא או לשנות עם הזמן. אין אחריות על תוכן הרשימות או על עדכניותן.
 
-Use of the software constitutes acceptance of these terms. If you do not
-agree, do not use the software.
+דיווח אבטחה: אם גיליתם פריצה, חולשה או באג אבטחה בתוכנה — אנא דווחו באחריות למייל ycohen888@gmail.com (בלי לפרסם פרטי ניצול בפומבי לפני שניתנה הזדמנות לתקן).
 
-Please do not use this software on Shabbat and Jewish holidays. Thank you.
+יצירת קשר ותמיכה: ycohen888@gmail.com · https://servxx.com
 
-Contact: https://servxx.com · ycohen888@gmail.com · 051-5001481
-Security reports: ycohen888@gmail.com
+כל הזכויות שמורות. התקנת התוכנה וסימון ההסכמה מהווים הסכמה לתנאים אלה.
 
----
+License Agreement — Internot Kasher (Version 1.0)
 
-רישיון אינטרנוט כשר — שימוש חופשי ללא תשלום.
-זכויות יוצרים שמורות למחבר; השימוש ניתן בכפוף לתנאים.
+The software "Internot Kasher" is provided free of charge, "AS IS", without any warranty — express or implied — including (without limitation) warranties of merchantability, fitness for a particular purpose, non-infringement, continuous availability, or freedom from defects.
 
-התוכנה מסופקת «כמות שהיא» (AS IS), ללא אחריות מכל סוג.
-המחבר והמפיצים לא יישאו באחריות לנזקים, אובדן נתונים, השבתה או כל נזק אחר.
+The developers, distributors, and servxx shall not be liable for any direct, indirect, incidental, consequential, or special damage arising from use of the software or inability to use it — including data loss, browsing disruption, incorrect website blocking, home-network failure, or any other damage — even if advised of the possibility of such damage.
 
-הסינון אינו מוחלט וניתן לעקיפה. השימוש באחריות המשתמש ובהתאם להלכה ולחוק.
+Use of the software is solely at the user's risk. The user must ensure that installation and settings comply with their needs, applicable law, and religious requirements (including the prohibition of use on Shabbat and Jewish holidays). The software is not religious or legal advice.
 
-אין להשתמש בתוכנה בשבת ובימי חול המועד. תודה.
+The software does not guarantee absolute blocking. Filtering may be bypassed by means such as Safe Mode, Live USB, an administrator account, encrypted DNS (DoH/DoT), VPN, or applications that ignore the system proxy. Configuration and supervision remain the user's responsibility.
 
-יצירת קשר: https://servxx.com · ycohen888@gmail.com · 051-5001481
+External filter lists (for example StevenBlack/hosts) are distributed separately under the MIT license and may include false positives or change over time. No warranty is given as to their content or currency.
+
+Security reports: if you discover a vulnerability or security bug, please report it responsibly to ycohen888@gmail.com (do not publish exploit details publicly before a reasonable chance to fix).
+
+Contact / support: ycohen888@gmail.com · https://servxx.com
+
+All rights reserved. Installing the software and checking the agreement box constitutes acceptance of these terms.
