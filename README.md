@@ -55,13 +55,14 @@
 
 ## מה התוכנה עושה?
 
-**אינטרנוט כשר** היא תוכנת סינון לרשת מוגנת במחשב Windows: חוסמת אתרים לא ראויים ולא צנועים, מנהלת כללי היתר/חסימה, ומאפשרת סינון גם למכשירים נוספים דרך DNS (אופציונלי).
+**אינטרנוט כשר** היא תוכנת סינון לרשת מוגנת במחשב Windows: חוסמת אתרים לא ראויים ולא צנועים, מאפשרת גם **לסגור אתרים לפי בחירה** (יוטיוב, חדשות, רשתות חברתיות ועוד), מנהלת כללי היתר/חסימה, ומאפשרת סינון גם למכשירים נוספים דרך DNS (אופציונלי).
 
 ### פלוס לעסקים ומשרדים
 
 מעבר לבית — התוכנה מתאימה גם ל**מחשבי עבודה**, חנויות, עמדות שירות ומחשבים משותפים:
 
 - **מניעת כניסה לאתרים לא צנועים** בזמן העבודה
+- **חסימת אתרים לפי בחירה** — יוטיוב, חדשות, רשתות חברתיות או כל דומיין אחר (מסך «כללים»)
 - **נעילת PIN** — קשה לכבות הגנה / לשנות הגדרות בלי אישור
 - **שירות Guardian** — הסינון ממשיך גם אחרי סגירת החלון
 - בלי מנוי ובלי מערכת ארגונית כבדה — התקנה על Windows והפעלה
@@ -71,6 +72,7 @@
 | **שירות Guardian** | הסינון ממשיך גם אחרי סגירת החלון |
 | **פרוקסי מערכת** | נעילת Proxy בדפדפנים + בדיקת תקינות |
 | **רשימות חסימה** | StevenBlack (תוכן לא צנוע / הימורים ועוד) + כללים ידניים |
+| **חסימה לפי בחירה** | סגירת יוטיוב, חדשות, רשתות חברתיות או כל אתר — בכללי היתר/חסימה |
 | **בדיקת תוכן** | מילות מפתח בחיפושים / כתובות (אופציונלי) |
 | **SafeSearch** | כפיית חיפוש בטוח / מצב מוגבל ביוטיוב |
 | **DNS רשת** | סינון לטלפונים וטלוויזיות דרך הראוטר |
@@ -136,7 +138,7 @@ servxx מפתחת תוכנות שימושיות, כולל כלים לקהילה 
 
 **Internot Kasher (Protected Network)** is a free Windows desktop filter for home **and** business (Hebrew UI by default).
 
-It blocks immodest / inappropriate sites, locks browser proxy settings, and keeps filtering via the Guardian service — with a **PIN** so protection is hard to turn off. A practical plus for offices, shops, and shared work PCs, without a heavy enterprise subscription.
+It blocks immodest / inappropriate sites, lets you **close chosen sites** (YouTube, news, social networks, or any domain) via Rules, locks browser proxy settings, and keeps filtering via the Guardian service — with a **PIN** so protection is hard to turn off. A practical plus for offices, shops, and shared work PCs, without a heavy enterprise subscription.
 
 1. Download the installer from [Releases](https://github.com/ycohen888/internot-kasher/releases/latest)
 2. Install as administrator and set a **PIN**
@@ -144,7 +146,7 @@ It blocks immodest / inappropriate sites, locks browser proxy settings, and keep
 
 **Logo:** green shield + globe + checkmark — protection, filtered internet, active policy.
 
-Features: local proxy + browser proxy lock, blocklists, manual allow/block rules, optional content keywords, SafeSearch / YouTube Restricted, optional LAN DNS filtering, PIN-locked settings and full shutdown.
+Features: local proxy + browser proxy lock, blocklists, **manual allow/block rules** (e.g. YouTube / news), optional content keywords, SafeSearch / YouTube Restricted, optional LAN DNS filtering, PIN-locked settings and full shutdown.
 
 Product page: [servxx.com/en/internot.php](https://servxx.com/en/internot.php)
 
