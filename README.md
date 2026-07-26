@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>רשת מוגנת ל־Windows</strong> — חסימה · פרוקסי · DNS · PIN<br/>
-  חינם לשימוש ביתי / <a href="https://servxx.com">servxx.com</a> · 051-5001481
+  לבית · לעסק · למשרד / <a href="https://servxx.com/he/internot.php">servxx.com</a> · 051-5001481
 </p>
 
 <p align="center">
@@ -55,13 +55,22 @@
 
 ## מה התוכנה עושה?
 
-**אינטרנוט כשר** היא תוכנת סינון לרשת מוגנת במחשב Windows: חוסמת אתרים לא ראויים, מנהלת כללי היתר/חסימה, ומאפשרת סינון גם למכשירי הבית דרך DNS (אופציונלי).
+**אינטרנוט כשר** היא תוכנת סינון לרשת מוגנת במחשב Windows: חוסמת אתרים לא ראויים ולא צנועים, מנהלת כללי היתר/חסימה, ומאפשרת סינון גם למכשירים נוספים דרך DNS (אופציונלי).
+
+### פלוס לעסקים ומשרדים
+
+מעבר לבית — התוכנה מתאימה גם ל**מחשבי עבודה**, חנויות, עמדות שירות ומחשבים משותפים:
+
+- **מניעת כניסה לאתרים לא צנועים** בזמן העבודה
+- **נעילת PIN** — קשה לכבות הגנה / לשנות הגדרות בלי אישור
+- **שירות Guardian** — הסינון ממשיך גם אחרי סגירת החלון
+- בלי מנוי ובלי מערכת ארגונית כבדה — התקנה על Windows והפעלה
 
 | נושא | פירוט |
 |------|--------|
 | **שירות Guardian** | הסינון ממשיך גם אחרי סגירת החלון |
 | **פרוקסי מערכת** | נעילת Proxy בדפדפנים + בדיקת תקינות |
-| **רשימות חסימה** | StevenBlack (פורנו / הימורים ועוד) + כללים ידניים |
+| **רשימות חסימה** | StevenBlack (תוכן לא צנוע / הימורים ועוד) + כללים ידניים |
 | **בדיקת תוכן** | מילות מפתח בחיפושים / כתובות (אופציונלי) |
 | **SafeSearch** | כפיית חיפוש בטוח / מצב מוגבל ביוטיוב |
 | **DNS רשת** | סינון לטלפונים וטלוויזיות דרך הראוטר |
@@ -69,6 +78,8 @@
 | **עברית / אנגלית** | ממשק RTL כברירת מחדל, ערכת נושא כהה |
 
 מאגר זה מפיץ את **קובץ ההתקנה בלבד** (ללא קוד מקור).
+
+פרטים נוספים באתר: [servxx.com/he/internot.php](https://servxx.com/he/internot.php)
 
 ---
 
@@ -123,7 +134,9 @@ servxx מפתחת תוכנות שימושיות, כולל כלים לקהילה 
 
 ## English (short)
 
-**Internot Kasher (Protected Network)** is a free Windows desktop filter for a protected home network (Hebrew UI by default).
+**Internot Kasher (Protected Network)** is a free Windows desktop filter for home **and** business (Hebrew UI by default).
+
+It blocks immodest / inappropriate sites, locks browser proxy settings, and keeps filtering via the Guardian service — with a **PIN** so protection is hard to turn off. A practical plus for offices, shops, and shared work PCs, without a heavy enterprise subscription.
 
 1. Download the installer from [Releases](https://github.com/ycohen888/internot-kasher/releases/latest)
 2. Install as administrator and set a **PIN**
@@ -132,6 +145,8 @@ servxx מפתחת תוכנות שימושיות, כולל כלים לקהילה 
 **Logo:** green shield + globe + checkmark — protection, filtered internet, active policy.
 
 Features: local proxy + browser proxy lock, blocklists, manual allow/block rules, optional content keywords, SafeSearch / YouTube Restricted, optional LAN DNS filtering, PIN-locked settings and full shutdown.
+
+Product page: [servxx.com/en/internot.php](https://servxx.com/en/internot.php)
 
 This repository distributes the **installer only** (no source code).
 
